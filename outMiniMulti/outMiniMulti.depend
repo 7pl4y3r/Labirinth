@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1540109007 source:d:\c or c++ es\outminimulti\main.cpp
+	<iostream>
+	<fstream>
+
